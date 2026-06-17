@@ -13,7 +13,7 @@ risk analytics, fraud detection, and credit strategy.
 
 - Data cleaning, metric analysis, visualization, business reporting, and modeling.
 - Credit risk, fraud detection, risk tiering, threshold strategy, and early-warning rules.
-- Database design, SQL querying, and basic command-line work.
+- Database design, SQL querying, and basic command-line work。
 
 ## Core toolkit
 
