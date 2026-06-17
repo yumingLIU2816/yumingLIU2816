@@ -46,8 +46,6 @@ risk analytics, fraud detection, and credit strategy.
 <p>
   <img src="https://img.shields.io/badge/Python-77B5FE?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-7FC8A9?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-A3C4F3?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-BDE0FE?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-F7A8B8?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-9AD0EC?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-F9C74F?style=flat-square" />
