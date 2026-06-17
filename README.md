@@ -93,9 +93,9 @@ risk analytics, fraud detection, and credit strategy.
   <img src="https://img.shields.io/badge/Relational%20Model-CDB4DB?style=flat-square" />
   <img src="https://img.shields.io/badge/Normalization-BDE0FE?style=flat-square" />
   <img src="https://img.shields.io/badge/DDL-A2D2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Primary%20/%20Foreign%20Keys-FDE2E4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test%20Data-FFCAD4?style=flat-square" />
   <img src="https://img.shields.io/badge/JOIN%20/%20Aggregate%20/%20Subquery-CAFFBF?style=flat-square" />
-  <img src="https://img.shields.io/badge/GraphQL-FFAFCC?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-9AD0EC?style=flat-square&logo=sequelize&logoColor=white" />
 </p>
 
 ## AI-assisted workflow
