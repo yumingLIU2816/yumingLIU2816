@@ -2,8 +2,6 @@
 
 # Hi, I'm Yuming Liu
 
-![Profile views](https://komarev.com/ghpvc/?username=yumingLIU2816&label=Profile%20views&color=0e75b6&style=flat)
-
 Information systems student focused on data analytics, machine learning,
 risk analytics, fraud detection, and credit strategy.
 
@@ -15,7 +13,7 @@ risk analytics, fraud detection, and credit strategy.
 
 - Data cleaning, metric analysis, visualization, business reporting, and modeling.
 - Credit risk, fraud detection, risk tiering, threshold strategy, and early-warning rules.
-- Linux-based research workflows, including SSH, shell scripts, Slurm, and HPC job submission.
+- Database design, SQL querying, and basic command-line work.
 
 ## Core toolkit
 
@@ -34,10 +32,6 @@ risk analytics, fraud detection, and credit strategy.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="58" alt="PostgreSQL" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="58" alt="Node.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="58" alt="Linux" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="58" alt="Shell" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="58" alt="Git" />
 &nbsp;&nbsp;
@@ -84,14 +78,12 @@ risk analytics, fraud detection, and credit strategy.
   <img src="https://img.shields.io/badge/Manual%20Review%20Rate-CAFFBF?style=flat-square" />
 </p>
 
-## Linux and HPC
+## Command line basics
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FED766?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell-8AC926?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Basics-FED766?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell%20Commands-8AC926?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SSH-6A4C93?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slurm-1982C4?style=flat-square" />
-  <img src="https://img.shields.io/badge/HPC%20Jobs-FFCA3A?style=flat-square" />
 </p>
 
 ## Database and systems
@@ -121,7 +113,7 @@ risk analytics, fraud detection, and credit strategy.
 `data cleaning` · `EDA` · `feature engineering` · `missing-value flags` ·
 `Accuracy` · `Precision` · `Recall` · `F1` · `AUC` · `threshold analysis` ·
 `risk tiering` · `backtesting` · `business reporting` · `SQL queries` ·
-`database design`
+`database design` · `basic shell commands`
 
 ## Contact
 
