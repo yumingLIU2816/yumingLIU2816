@@ -111,7 +111,7 @@ risk analytics, fraud detection, and credit strategy.
 | Fraud Detection Strategy | Fraud signals from amount, device, email domain, address, missingness, and time features. | Python, XGBoost, LightGBM |
 | Payment Processing Database | Designed and implemented a PostgreSQL database with ERD, normalization, DDL, test data, and analytical SQL queries. | PostgreSQL, SQL, ERD |
 | Graphbook Web App | Built a full-stack app with a GraphQL API and ORM-backed MySQL data layer. | React, GraphQL, Node.js, Sequelize, MySQL |
-| ETF / Index Research | ETF factor analysis, delisting-risk monitoring, and index construction. | Python, SQL, Excel |
+| ETF | ETF factor analysis, delisting-risk monitoring, and index construction. | Python, SQL, Excel |
 
 ## Methods I use often
 
