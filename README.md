@@ -21,6 +21,8 @@ risk analytics, fraud detection, and credit strategy.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="58" alt="Python" />
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="58" alt="Jupyter Notebook" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="58" alt="scikit-learn" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="58" alt="TensorFlow" />
@@ -92,10 +94,7 @@ risk analytics, fraud detection, and credit strategy.
   <img src="https://img.shields.io/badge/ERD-FBC4AB?style=flat-square" />
   <img src="https://img.shields.io/badge/Relational%20Model-CDB4DB?style=flat-square" />
   <img src="https://img.shields.io/badge/Normalization-BDE0FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/DDL-A2D2FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Primary%20/%20Foreign%20Keys-FDE2E4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Test%20Data-FFCAD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/JOIN%20/%20Aggregate%20/%20Subquery-CAFFBF?style=flat-square" />
 </p>
 
 ## AI-assisted workflow
