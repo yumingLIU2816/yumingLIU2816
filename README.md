@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yumingLIU2816&label=Profile%20views&color=0e75b6&style=flat)
 
-Data analytics and machine learning student focused on information systems,
+Information systems student focused on data analytics, machine learning,
 risk analytics, fraud detection, and credit strategy.
 
 </div>
@@ -31,6 +31,10 @@ risk analytics, fraud detection, and credit strategy.
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="58" alt="MySQL" />
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="58" alt="PostgreSQL" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="58" alt="Node.js" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="58" alt="Linux" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="58" alt="Shell" />
@@ -46,6 +50,8 @@ risk analytics, fraud detection, and credit strategy.
 <p>
   <img src="https://img.shields.io/badge/Python-77B5FE?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-7FC8A9?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-A3C4F3?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-BDE0FE?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-F7A8B8?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-9AD0EC?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-F9C74F?style=flat-square" />
@@ -88,20 +94,34 @@ risk analytics, fraud detection, and credit strategy.
   <img src="https://img.shields.io/badge/HPC%20Jobs-FFCA3A?style=flat-square" />
 </p>
 
+## Database and systems
+
+<p>
+  <img src="https://img.shields.io/badge/ERD-FBC4AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Relational%20Model-CDB4DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Normalization-BDE0FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/DDL-A2D2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/JOIN%20/%20Aggregate%20/%20Subquery-CAFFBF?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-FFAFCC?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-9AD0EC?style=flat-square&logo=sequelize&logoColor=white" />
+</p>
+
 ## Selected projects
 
 | Project | Focus | Tools |
 | --- | --- | --- |
 | Credit Risk Modeling | Credit-card default prediction and risk modeling with model evaluation. | Python, pandas, scikit-learn, XGBoost |
 | Fraud Detection Strategy | Fraud signals from amount, device, email domain, address, missingness, and time features. | Python, XGBoost, LightGBM |
+| Payment Processing Database | Designed and implemented a PostgreSQL database with ERD, normalization, DDL, test data, and analytical SQL queries. | PostgreSQL, SQL, ERD |
+| Graphbook Web App | Built a full-stack app with a GraphQL API and ORM-backed MySQL data layer. | React, GraphQL, Node.js, Sequelize, MySQL |
 | ETF / Index Research | ETF factor analysis, delisting-risk monitoring, and index construction. | Python, SQL, Excel |
-| CNN Image Classification | Coursework project for image classification with neural networks. | Python, TensorFlow |
 
 ## Methods I use often
 
 `data cleaning` · `EDA` · `feature engineering` · `missing-value flags` ·
 `Accuracy` · `Precision` · `Recall` · `F1` · `AUC` · `threshold analysis` ·
-`risk tiering` · `backtesting` · `business reporting`
+`risk tiering` · `backtesting` · `business reporting` · `SQL queries` ·
+`database design`
 
 ## Contact
 
