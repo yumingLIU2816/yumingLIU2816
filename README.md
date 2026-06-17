@@ -12,8 +12,8 @@ risk analytics, fraud detection, and credit strategy.
 ## What I work on
 
 - Data cleaning, metric analysis, visualization, business reporting, and modeling.
-- Credit risk, fraud detection, risk tiering, threshold strategy, and early-warning rules.
-- Database design, SQL querying, and basic command-line work。
+- Credit risk assessment, risk monitoring, early-warning analysis, and strategy support.
+- Database design, SQL querying, and basic command-line work.
 
 ## Core toolkit
 
@@ -66,16 +66,16 @@ risk analytics, fraud detection, and credit strategy.
   <img src="https://img.shields.io/badge/TensorFlow%20/%20PyTorch-FFD6A5?style=flat-square" />
 </p>
 
-## Risk and fraud strategy
+## Credit risk strategy
 
 <p>
-  <img src="https://img.shields.io/badge/Credit%20Risk-BDE0FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fraud%20Detection-FFC8DD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Risk%20Tiering-CDB4DB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threshold%20Strategy-FFAFCC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Approval%20Rate-A2D2FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/False%20Positive%20Rate-BDE0FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Manual%20Review%20Rate-CAFFBF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Assessment-BDE0FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Monitoring-CAFFBF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Early%20Warning-FFD6A5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Credit%20Policy-CDB4DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strategy%20Design-FFAFCC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Reporting-A2D2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cross--functional%20Collaboration-FDE2E4?style=flat-square" />
 </p>
 
 ## Command line basics
@@ -98,6 +98,14 @@ risk analytics, fraud detection, and credit strategy.
   <img src="https://img.shields.io/badge/Sequelize-9AD0EC?style=flat-square&logo=sequelize&logoColor=white" />
 </p>
 
+## AI-assisted workflow
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-FDE2E4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Design-CDB4DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-BDE0FE?style=flat-square" />
+</p>
+
 ## Selected projects
 
 | Project | Focus | Tools |
@@ -112,8 +120,8 @@ risk analytics, fraud detection, and credit strategy.
 
 `data cleaning` · `EDA` · `feature engineering` · `missing-value flags` ·
 `Accuracy` · `Precision` · `Recall` · `F1` · `AUC` · `threshold analysis` ·
-`risk tiering` · `backtesting` · `business reporting` · `SQL queries` ·
-`database design` · `basic shell commands`
+`risk monitoring` · `early warning` · `risk reporting` · `business reporting` ·
+`SQL queries` · `database design` · `basic shell commands`
 
 ## Contact
 
