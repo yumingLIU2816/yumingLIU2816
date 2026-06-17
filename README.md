@@ -23,10 +23,9 @@ risk analytics, fraud detection, credit modeling, and financial data analysis.
 
 ## About me
 
-- MS candidate focused on data analytics, machine learning, and business decision support.
-- I work with financial and risk data, including ETF/index research, credit-risk modeling, fraud scoring, and due-diligence analysis.
-- I build models with a business end point in mind: approval rules, risk tiers, fraud capture, false positives, manual review rate, and expected loss.
-- I care about clear EDA, defensible feature engineering, practical model evaluation, and readable project documentation.
+- MS candidate focused on data analytics, machine learning, and risk analytics.
+- I work on credit risk, fraud detection, ETF/index research, and financial data analysis.
+- I care about clear EDA, practical model evaluation, and turning model scores into business decisions.
 
 ## Featured projects
 
@@ -65,16 +64,6 @@ risk analytics, fraud detection, credit modeling, and financial data analysis.
 - Classification and regression models using Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and LightGBM.
 - Risk-model interpretation with variable binning, WOE encoding, IV screening, ROC/AUC, confusion matrix, threshold analysis, and business trade-off metrics.
 - Financial data analysis for ETF/index research, factor grouping, return backtesting, risk monitoring, and company/industry due diligence.
-
-## GitHub stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yumingLIU2816&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumingLIU2816&layout=compact&hide_border=true)
-
-</div>
 
 ## Contact
 
