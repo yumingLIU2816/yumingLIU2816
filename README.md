@@ -4,8 +4,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yumingLIU2816&label=Profile%20views&color=0e75b6&style=flat)
 
-I am **Yuming Liu**, a data analytics and machine learning student interested in
-risk modeling, fraud detection, and turning messy data into practical decisions.
+I am **Yuming Liu**, a data analytics and machine learning student focused on
+risk analytics, fraud detection, credit modeling, and financial data analysis.
 
 </div>
 
@@ -13,9 +13,9 @@ risk modeling, fraud detection, and turning messy data into practical decisions.
 
 <div align="center">
 
-## Tools I use
+## Core toolkit
 
-![Skills](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,pytorch,mysql,git,github,vscode,docker,html,css,js&perline=7)
+![Skills](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,mysql,git,github,vscode&perline=8)
 
 </div>
 
@@ -24,38 +24,47 @@ risk modeling, fraud detection, and turning messy data into practical decisions.
 ## About me
 
 - MS candidate focused on data analytics, machine learning, and business decision support.
-- I build projects that connect model output with practical choices, such as approval rules, risk tiers, and action thresholds.
-- Recent work includes credit risk modeling, fraud detection, CNN image classification, and clustering analysis.
-- I care about clear model interpretation, practical evaluation metrics, and readable project documentation.
+- I work with financial and risk data, including ETF/index research, credit-risk modeling, fraud scoring, and due-diligence analysis.
+- I build models with a business end point in mind: approval rules, risk tiers, fraud capture, false positives, manual review rate, and expected loss.
+- I care about clear EDA, defensible feature engineering, practical model evaluation, and readable project documentation.
 
 ## Featured projects
 
 | Project | What it does | Main tools |
 | --- | --- | --- |
-| Credit Risk Modeling | Built classification and loss models for home-equity loan default risk, with WOE/IV features and model comparison. | Python, scikit-learn, TensorFlow |
-| Fraud Detection Strategy | Compared fraud models and translated model scores into risk tiers and review strategies. | Python, XGBoost, LightGBM |
-| CNN Image Classification | Trained and evaluated a convolutional neural network for image classification. | Python, TensorFlow |
-| Loan / Customer Clustering | Used K-Means and profile analysis to explain borrower groups and business implications. | Python, pandas, scikit-learn |
+| Credit Risk Modeling | Built a two-stage framework for default classification and post-default loss estimation, with WOE/IV screening and model comparison. | Python, pandas, scikit-learn, XGBoost |
+| Fraud Detection Strategy | Modeled imbalanced transaction fraud and translated fraud scores into approval, review, and rejection strategy thresholds. | Python, XGBoost, LightGBM |
+| ETF / Index Research | Built ETF factor analysis, delisting-risk monitoring, and free-float market-cap index construction workflows. | Python, SQL, Wind, Excel |
+| CNN Image Classification | Trained and evaluated a convolutional neural network for image classification coursework. | Python, TensorFlow |
 
-## Languages and analytics stack
+## Analytics stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stata-1A4E8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wind-005BAC?style=for-the-badge" />
 </p>
 
 ## Model development
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/WOE%20%2F%20IV-5B5B5B?style=for-the-badge" />
 </p>
+
+## What I usually build
+
+- Data cleaning, missing-value analysis, EDA, and feature engineering with `pandas` and `NumPy`.
+- Classification and regression models using Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and LightGBM.
+- Risk-model interpretation with variable binning, WOE encoding, IV screening, ROC/AUC, confusion matrix, threshold analysis, and business trade-off metrics.
+- Financial data analysis for ETF/index research, factor grouping, return backtesting, risk monitoring, and company/industry due diligence.
 
 ## GitHub stats
 
@@ -69,9 +78,7 @@ risk modeling, fraud detection, and turning messy data into practical decisions.
 
 ## Contact
 
-- LinkedIn: `ADD_YOUR_LINKEDIN`
 - Email: `yumingliu3216@gmail.com`
-- Portfolio / Blog: `ADD_YOUR_PORTFOLIO_LINK`
 
 ---
 
