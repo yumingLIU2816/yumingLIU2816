@@ -1,40 +1,29 @@
 <div align="center">
 
-# Hi there, nice to see you
+# Hi, I'm Yuming Liu
 
 ![Profile views](https://komarev.com/ghpvc/?username=yumingLIU2816&label=Profile%20views&color=0e75b6&style=flat)
 
-I am **Yuming Liu**, a data analytics and machine learning student focused on
-risk analytics, fraud detection, credit modeling, and financial data analysis.
+Data analytics and machine learning student focused on risk analytics,
+fraud detection, credit modeling, and financial data analysis.
 
 </div>
 
 ---
 
-<div align="center">
+## What I work on
+
+- Credit risk, fraud detection, ETF/index research, and financial data analysis.
+- EDA, feature engineering, model evaluation, and risk-model interpretation.
+- Turning model outputs into practical decisions such as risk tiers, thresholds, review rules, and expected-loss estimates.
 
 ## Core toolkit
+
+<div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,mysql,git,github,vscode&perline=8)
 
 </div>
-
----
-
-## About me
-
-- MS candidate focused on data analytics, machine learning, and risk analytics.
-- I work on credit risk, fraud detection, ETF/index research, and financial data analysis.
-- I care about clear EDA, practical model evaluation, and turning model scores into business decisions.
-
-## Featured projects
-
-| Project | What it does | Main tools |
-| --- | --- | --- |
-| Credit Risk Modeling | Built a two-stage framework for default classification and post-default loss estimation, with WOE/IV screening and model comparison. | Python, pandas, scikit-learn, XGBoost |
-| Fraud Detection Strategy | Modeled imbalanced transaction fraud and translated fraud scores into approval, review, and rejection strategy thresholds. | Python, XGBoost, LightGBM |
-| ETF / Index Research | Built ETF factor analysis, delisting-risk monitoring, and free-float market-cap index construction workflows. | Python, SQL, Wind, Excel |
-| CNN Image Classification | Trained and evaluated a convolutional neural network for image classification coursework. | Python, TensorFlow |
 
 ## Analytics stack
 
@@ -48,7 +37,7 @@ risk analytics, fraud detection, credit modeling, and financial data analysis.
   <img src="https://img.shields.io/badge/Wind-005BAC?style=for-the-badge" />
 </p>
 
-## Model development
+## Modeling
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -58,12 +47,20 @@ risk analytics, fraud detection, credit modeling, and financial data analysis.
   <img src="https://img.shields.io/badge/WOE%20%2F%20IV-5B5B5B?style=for-the-badge" />
 </p>
 
-## What I usually build
+## Selected projects
 
-- Data cleaning, missing-value analysis, EDA, and feature engineering with `pandas` and `NumPy`.
-- Classification and regression models using Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and LightGBM.
-- Risk-model interpretation with variable binning, WOE encoding, IV screening, ROC/AUC, confusion matrix, threshold analysis, and business trade-off metrics.
-- Financial data analysis for ETF/index research, factor grouping, return backtesting, risk monitoring, and company/industry due diligence.
+| Project | Focus | Tools |
+| --- | --- | --- |
+| Credit Risk Modeling | Two-stage default classification and loss estimation with WOE/IV screening. | Python, pandas, scikit-learn, XGBoost |
+| Fraud Detection Strategy | Fraud scoring, threshold analysis, approval/review/rejection strategy. | Python, XGBoost, LightGBM |
+| ETF / Index Research | ETF factor analysis, delisting-risk monitoring, and index construction. | Python, SQL, Wind, Excel |
+| CNN Image Classification | Coursework project for image classification with neural networks. | Python, TensorFlow |
+
+## Methods I use often
+
+`EDA` · `feature engineering` · `missing-value analysis` · `WOE/IV` · `ROC/AUC` ·
+`confusion matrix` · `threshold analysis` · `classification` · `regression` ·
+`risk tiering` · `backtesting`
 
 ## Contact
 
